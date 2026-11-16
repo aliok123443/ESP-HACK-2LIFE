@@ -1,13 +1,9 @@
-# 📡 ESP-HACK FW — [Русский](./README-ru.md)
+## 🚀 About ESP-HACK-2LIFE FW
 
-![ESP-HACK_LOGO](others/Pictures/ESP-HACK.png)
-
-## 🚀 About ESP-HACK FW
-
-ESP-HACK is a powerful universal firmware for the ESP32, built for RF research and pentesting of radio frequencies, Bluetooth, infrared signals and GPIO integrations. 
+ESP-HACK-2LIFE is a powerful universal firmware for the ESP32 based on a ESP-HACK by Teapot174, built for RF research and pentesting of radio frequencies, Bluetooth, infrared signals and GPIO integrations. 
 The project targets enthusiasts and pentesters who want to explore protocols and devices in Sub-GHz ranges and other wireless technologies.
 
-[For more information, please check our wiki :)](https://teapot174.github.io/)
+[For more information, please check teapo174's wiki :)](https://teapot174.github.io/)
 
 > *The firmware is stable within its declared functionality, but some features are marked as "in development". Use the device according to the laws in your region.*
 
@@ -24,11 +20,11 @@ By using the firmware, you must comply with the laws of your region. The firmwar
 
 ### WiFi
 
-- Deauth
+- Deauth (UPDATED)
 - Beacon Spam  
 - EvilPortal  
 - Wardriving
-- Packets
+- Packets (UPDATED)
 
 ### Bluetooth
 
@@ -115,15 +111,14 @@ Thanks Dripside!
 
 ### 🔧 Required components
 
-| Component | Link |
-|-----------|--------|
-| ESP32-WROOM | [TAP](https://aliexpress.com/item/1005007817121199.html) |
-| CC1101 | [TAP](https://aliexpress.com/item/1005008544032996.html) |
-| Display SH1106 | [TAP](https://aliexpress.com/item/1005004464878029.html) |
-| SD Мodule | [TAP](https://aliexpress.com/item/32674518514.html) |
-| Buttons | [TAP](https://aliexpress.com/item/4000452176168.html) |
-| IR-TX, IR-RX | [TAP](https://aliexpress.com/item/1005007446501425.html) |
-
+| Component |
+|-----------|
+| ESP32-WROOM | 
+| CC1101 | 
+| Display SH1106 | 
+| SD Мodule | 
+| Buttons | 
+| IR-TX, IR-RX |
 ---
 
 ### 🔌 Connection scheme
