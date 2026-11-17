@@ -1,13 +1,13 @@
-# 📡 ESP-HACK FW — [English](./README.md)
+
 
 ![ESP-HACK_LOGO](others/Pictures/ESP-HACK.png)
 
-## 🚀 О проекте ESP-HACK FW
+## 🚀 О проекте ESP-HACK-2LIFE FW
 
 ESP-HACK — мощная универсальная прошивка для ESP32, собранная для исследований и пентестинга радиочастот, Bluetooth, инфракрасных сигналов и GPIO-интеграций.
 Проект ориентирован на энтузиастов и пентестеров, желающих исследовать протоколы и устройства в суб-гигагерцовых диапазонах и в беспроводных технологиях.
 
-[Больше информации на нашем вики :)](https://teapot174.github.io/)
+[Больше информации на вики teapot174 :)](https://teapot174.github.io/)
 
 > *Используйте устройство согласно законам вашего региона.*
 
@@ -24,11 +24,11 @@ ESP-HACK — мощная универсальная прошивка для ESP
 
 ### WiFi
 
-- Deauth
+- Deauth (Обновлено)
 - Beacon Spam  
 - EvilPortal  
 - Wardriving
-- Packets
+- Packets (Обновлено)
 
 ### Bluetooth
 
@@ -115,14 +115,14 @@ Thanks Dripside!
 
 ### 🔧 Необходимые компоненты
 
-| Компонент | Ссылка |
-|-----------|--------|
-| ESP32-WROOM | [TAP](https://aliexpress.ru/item/1005007817121199.html) |
-| CC1101 | [TAP](https://aliexpress.ru/item/1005008544032996.html) |
-| Display SH1106 | [TAP](https://aliexpress.ru/item/1005004464878029.html) |
-| SD Модуль | [TAP](https://aliexpress.ru/item/32674518514.html) |
-| Кнопки | [TAP](https://aliexpress.ru/item/4000452176168.html) |
-| IR-TX, IR-RX | [TAP](https://aliexpress.ru/item/1005007446501425.html) |
+| Компонент |
+|-----------|
+| ESP32-WROOM |
+| CC1101 |
+| Display SH1106 |
+| SD Модуль |
+| Кнопки |
+| IR-TX, |
 
 ---
 
